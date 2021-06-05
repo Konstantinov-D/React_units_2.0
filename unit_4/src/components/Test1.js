@@ -10,7 +10,7 @@ class Test1 extends React.Component {
       s1: 0,
     };
   }
-  // dd
+  
   ButtonHandler = () => {
     let val = this.state.s1;
     val++;
